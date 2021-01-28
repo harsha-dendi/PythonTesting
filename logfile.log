@@ -1,0 +1,17 @@
+2021-01-21 16:55:11,368 :INFO :pytetsDemo.test_logging :Information statement
+2021-01-21 16:55:11,383 :WARNING :pytetsDemo.test_logging :Something is in warning mode
+2021-01-21 16:55:11,383 :ERROR :pytetsDemo.test_logging :A major error has happened
+2021-01-21 16:55:11,383 :CRITICAL :pytetsDemo.test_logging :Critical issue
+2021-01-21 16:57:49,346 :DEBUG :pytetsDemo.test_logging :A debug statement is executed
+2021-01-21 16:57:49,347 :INFO :pytetsDemo.test_logging :Information statement
+2021-01-21 16:57:49,347 :WARNING :pytetsDemo.test_logging :Something is in warning mode
+2021-01-21 16:57:49,347 :ERROR :pytetsDemo.test_logging :A major error has happened
+2021-01-21 16:57:49,347 :CRITICAL :pytetsDemo.test_logging :Critical issue
+2021-01-21 17:11:06,544 :INFO :pytetsDemo.BaseClass :Rahul
+2021-01-21 17:11:06,544 :INFO :pytetsDemo.BaseClass :rahulshettyacademy.com
+2021-01-21 17:14:17,814 :INFO :pytetsDemo.BaseClass :Rahul
+2021-01-21 17:14:17,814 :INFO :pytetsDemo.BaseClass :rahulshettyacademy.com
+2021-01-21 17:15:36,749 :INFO :test_editProfile :Rahul
+2021-01-21 17:15:36,749 :INFO :test_editProfile :rahulshettyacademy.com
+2021-01-22 13:09:43,050 :INFO :test_editProfile :Rahul
+2021-01-22 13:09:43,060 :INFO :test_editProfile :rahulshettyacademy.com
